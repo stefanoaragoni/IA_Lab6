@@ -1,0 +1,7 @@
+### TASK 1.1
+El modelo creado manualmente presentó un accuracy de 0.68, mientras que el modelo creado con Random Forest presentó un acurracy de 0.73. Tomando estos valores en cuenta, se puede concluir que la implementación que utiliza Random Forest fue mejor para predecir los datos del dataset. Una posible explicación para esta ligeradiferencia a favor del modelo que utiliza Random Forest es que este es un modelo de predicción mas automatizado, el cual disminuye la posibilidad del error humano.
+
+### TASK 1.2
+El modelo creado manualmente presentó un R cuadrado de 0.89, mientras que el modelo creado con SK Learn presentó un R cuadrado de 0.91. Tomando estos valores en cuenta, se puede concluir que la implementación que utiliza SK Learn fue mejor para predecir los datos del dataset. Esta implementación logra explicar el 91% de los resultados del dataset. Una posible explicación para esta ligera diferencia a favor del modelo que utiliza SK Learn es que esta libreria utiliza algoritmos más depurados que realizan calculos ligeramente más refinados que los de la implementación manual.
+
+Adicionalmente, se realizó una verificación con Random Forest. Utilizando este modelo, se obtuvo un valor de R cuadrado de 0.69.
